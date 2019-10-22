@@ -38,6 +38,7 @@ class _JohannasHomePageState extends State<JohannasHomePage> {
     );
   }
 
+
   Widget makeRow(attribut, wert) {
     return Row(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
